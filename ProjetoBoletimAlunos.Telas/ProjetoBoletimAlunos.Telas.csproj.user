@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasAdministrador\Gerenciar Aluno\AdicionarAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasAdministrador\Gerenciar Aluno\AlterarOuExcluirAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasAdministrador\Gerenciar Aluno\MenuGerenciarAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasAdministrador\Gerenciar Curso\AdicionarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasAdministrador\Gerenciar Curso\AlterarOuExcluirCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasAdministrador\Gerenciar Curso\MenuGerenciarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasAdministrador\Gerenciar Matéria\AdicionarMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasAdministrador\Gerenciar Matéria\AlterarOuExcluirMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasAdministrador\Gerenciar Matéria\MenuGerenciarMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasAdministrador\MenuAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasAluno\MenuAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasAluno\TelaNotasCursosPassados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasAluno\TelaNotasTodasMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasAluno\TelaNotaUmaMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasProfessor\AdicionarNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelasProfessor\GerenciarNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
